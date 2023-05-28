@@ -1,41 +1,41 @@
-krakenex
+# exchange API
 ========
 
-Kraken.com exchange API, Python 2 package.
+API de troca Kraken.com, pacote Python 2.
 
 
-Installation
+Instalação
 -----------
 
-Run `python ./setup.py install`. The module will be called `krakenex`.
+Execute `python ./setup.py install`. O módulo será chamado `krakenex`.
 
 
-Documentation
+Documentação
 -------------
 
-The code is simple and documented in docstrings.
+O código é simples e documentado em docstrings.
 
-For a list of public/private API methods, see
-[Kraken API documentation][krakenapidoc].
+Para obter uma lista de métodos de API públicos/privados, consulte
+[Documentação da API do Kraken][krakenapidoc].
 
 
-Attribution
+Atribuição
 -----------
 
-This code is licensed under LGPLv3. It should be available in
-`LICENSE`. If not, see [here][license].
+Este código é licenciado sob LGPLv3. Deve estar disponível em
+`LICENÇA`. Caso contrário, consulte [aqui] [licença].
 
-Examples are licensed under the Simplified BSD license. See
-`examples/LICENSE`.
+Os exemplos são licenciados sob a licença Simplified BSD. Ver
+`exemplos/LICENÇA`.
 
-Payward's [PHP API][krakenphpapi], Alan McIntyre's [BTC-e API][btceapi],
-and ScriptProdigy's [Cryptsy Python API][cryptsypyapi] were used as
-examples.
+Payward [PHP API][krakenphpapi], Alan McIntyre [BTC-e API][btceapi],
+e [Cryptsy Python API][cryptsypyapi] do ScriptProdigy foram usados como
+exemplos.
 
 
 [krakenapidoc]: https://www.kraken.com/help/api
-[license]: https://www.gnu.org/licenses/lgpl-3.0.txt
+[licença]: https://www.gnu.org/licenses/lgpl-3.0.txt
 [krakenphpapi]: https://github.com/payward/kraken-api-client
 [btceapi]: https://github.com/alanmcintyre/btce-api
 [cryptsypyapi]: https://github.com/ScriptProdigy/CryptsyPythonAPI
-# exchange-API
+#exchange-API
